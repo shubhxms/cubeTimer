@@ -11,7 +11,7 @@ function Header() {
   return (
     <div style={{ borderBottom : `1px solid ${color}`, justifyContent:'space-between'}}>
 			<SimpleGrid columns={2}>
-			<Heading> cutimer </Heading>
+			<Heading> cubetimer </Heading>
 				<ButtonGroup>					
 					<Spacer />
 					<IconButton 
